@@ -4,7 +4,7 @@ body {
   font-family: 'Montserrat',Arial,sans-serif;
 }
 img {
-  width: 10%;
+  width: 150px;
   padding-top: 34px;
 }
 h1 {
@@ -112,7 +112,7 @@ a:active {
 }
 
 .about_me_text {
-  width: 50%;
+  width: 85%;
   margin: auto;
 }
 
