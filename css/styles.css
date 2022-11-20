@@ -193,7 +193,7 @@ font-weight: bold;
   .nav_bar_box {display: none;}
   .dropdown {display: block;}
   .left_item {display: inline-block;}
-  .contactmetext {width:80%; text-align:justify;}
+  .contactmetext {width:85%;}
 }
 @media (max-width: 1220px) {
   .project3 {display: none;}
