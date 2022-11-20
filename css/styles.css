@@ -181,10 +181,9 @@ a:active {
   padding: 3px;
   margin: 20px 0
 }
-.social_media {
-}
-.center_contact {
-
+.contactmehere {
+color: #112D4E;
+font-weight:bold;
 }
 
 @media (max-width: 905px) {
