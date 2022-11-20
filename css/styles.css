@@ -191,14 +191,10 @@ a:active {
 
 }
 
-@media (max-width: 710px) {
-  .left_item {display: inline-block;}
-  .project2 {display: block;}
-}
 @media (max-width: 905px) {
   .nav_bar_box {display: none;}
   .dropdown {display: block;}
-  .project2 {display: none;}
+  .left_item {display: inline-block;}
 }
 @media (max-width: 1220px) {
   .project3 {display: none;}
