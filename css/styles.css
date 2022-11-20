@@ -170,6 +170,9 @@ a:active {
   align-items: center;
   justify-content: center
 }
+.see_more:hover {
+  text-decoration: none;
+}
 .project_image {
   width: 243px;
   height: 162px;
