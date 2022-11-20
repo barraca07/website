@@ -185,11 +185,15 @@ a:active {
 color: #112D4E;
 font-weight: bold;
 }
-
+.contactmetext {
+ margin:0;
+ width:50%;
+}
 @media (max-width: 905px) {
   .nav_bar_box {display: none;}
   .dropdown {display: block;}
   .left_item {display: inline-block;}
+  .contactmetext {width:80%; text-align:justify;}
 }
 @media (max-width: 1220px) {
   .project3 {display: none;}
