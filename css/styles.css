@@ -190,18 +190,18 @@ a:active {
 .center_contact {
 
 }
-@media (max-width: 960px) {
-  .project2 {display: none;}
-}
+
 @media (max-width: 710px) {
   .left_item {display: inline-block;}
+  .project2 {display: block;}
 }
-@media (max-width: 1210px) {
+@media (max-width: 905px) {
+  .nav_bar_box {display: none;}
+  .dropdown {display: block;}
+  .project2 {display: none;}
+}
+@media (max-width: 1220px) {
   .project3 {display: none;}
 }
-@media (max-width: 900px) {
-  .nav_bar_box {display: none;}
-}
-@media (max-width: 900px) {
-  .dropdown {display: block;}
-}
+
+
