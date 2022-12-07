@@ -133,12 +133,12 @@ a:active {
   position: relative;
   border-radius: 25px;
   background-color: #FFFFFF;
-  display: flex;
   align-items: center;
   margin: 15px;
   padding: 15px;
   border-style: solid;
   border-width: 0px;
+  height: 95%
 }
 
 .footer {
